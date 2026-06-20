@@ -3,7 +3,6 @@ AgriSmart — AI Farm Decision Assistant
 Run: streamlit run app.py
 """
 
-from urllib import response
 
 import streamlit as st
 import numpy as np
